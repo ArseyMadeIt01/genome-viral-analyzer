@@ -1,0 +1,8 @@
+##fileformat=VCFv4.2
+##source=GenomicVariantAnalyzer
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+#CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO
+1       879317  rs123   G       A       29.5    PASS    DP=14
+1       879654  rs456   C       T       50.1    PASS    DP=20
+1       879789  rs789   A       G       10.2    PASS    DP=5
+1       880000  .       T       C       99.0    PASS    DP=18
